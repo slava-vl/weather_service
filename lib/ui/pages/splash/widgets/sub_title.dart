@@ -8,7 +8,6 @@ class SubTitle extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Expanded(
-      flex: 1,
       child: Center(
         child: Text(
           'dawn is coming soon',
